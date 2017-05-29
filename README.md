@@ -1,4 +1,4 @@
-# Kaggle-Quora-Question-Pairs
+# Kaggle: Quora question pairs
 
 ![Pictures](Pictures/quora.jpg)
 
